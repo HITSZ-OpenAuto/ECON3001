@@ -1,0 +1,52 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 516,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "README.md": {
+    "size": 1538,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "readme.toml": {
+    "size": 1996,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  },
+  "tag.txt": {
+    "size": 448,
+    "time": 1783697074,
+    "hash": "ad9735ce5865573241031a5f2de0e914ea0771d5"
+  }
+}
